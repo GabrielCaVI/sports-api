@@ -1,0 +1,17 @@
+{
+  "name": "sports-api",
+  "version": "1.0.0",
+  "description": "Restful api for web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Carrion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "json-tools": "^0.2.31",
+    "mongoose": "^5.4.21",
+    "nodemon": "^1.18.10"
+  }
+}
